@@ -1,0 +1,15 @@
+:root {
+    --SQUARE: 1 / 1; /* aspect-ratio */
+    
+    --grid-size: 32;
+    --tile-size: 10vw;
+
+    --snake-head-x: 16;
+    --snake-head-y: 16;
+    --snake-length: 3;
+
+    --food-x: 10;
+    --food-y: 10;
+
+
+}
